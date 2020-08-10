@@ -20,7 +20,8 @@ If you use this dataset, please cite the following paper
     title = "Can Automatic Post-editing Improve NMT?",
     author = "Chollampatt, Shamil  and
       Susanto, Raymond  and
-      Tan, Liling",
+      Tan, Liling and
+      Ewa Szymanska",
     booktitle = "arXiv",
     year = "2020",
 }
