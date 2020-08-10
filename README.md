@@ -1,6 +1,6 @@
 ## Post-editing Datasets by Rakuten  (PEDRa)
 
-PEDRa contains publicly available neural machine translation post-editing datasets in the subtitle domain created by [Rakuten Institute of Technology](https://rit.rakuten.co.jp/). The datasets are released under Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License ([CC BY-NC-SA 4.0)](https://creativecommons.org/licenses/by-nc-sa/4.0/)). 
+PEDRa contains publicly available neural machine translation post-editing datasets in the subtitle domain created by [Rakuten Institute of Technology](https://rit.rakuten.co.jp/). The datasets are released under Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License ([CC BY-NC-SA 4.0)](https://creativecommons.org/licenses/by-nc-sa/4.0/). 
 
 #### Assets
 
@@ -15,7 +15,7 @@ The datasets are licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/li
 
 #### Citation
 If you use this dataset, please cite the following paper
-``
+```
 @inproceedings{chollampatt2020pedra,
     title = "Can Automatic Post-editing Improve NMT?",
     author = "Chollampatt, Shamil  and
