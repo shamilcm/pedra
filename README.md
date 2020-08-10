@@ -2,7 +2,7 @@
 
 PEDRa contains publicly available neural machine translation post-editing datasets in the subtitle domain created by [Rakuten Institute of Technology](https://rit.rakuten.co.jp/). The datasets are released under Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License ([CC BY-NC-SA 4.0)](https://creativecommons.org/licenses/by-nc-sa/4.0/). 
 
-#### Assets
+#### Datasets
 
 1. **SubEdits** (English-German 160k triplets): A human-annnoated post-editing dataset of neural machine translation outputs, compiled from in-house NMT outputs and human post-edits of subtitles form [Rakuten Viki](https://www.viki.com/). Details about dataset collection and preprocessing can be found in the [paper](https://arxiv.com/pdf/XXX.XXXX).
 
