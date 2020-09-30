@@ -21,7 +21,7 @@ If you use these datasets, please cite the following paper
       Susanto, Raymond  and
       Tan, Liling and
       Szymanska, Ewa",
-    booktitle = "arXiv",
+    booktitle = "Proceedings of EMNLP",
     year = "2020",
 }
 ```
